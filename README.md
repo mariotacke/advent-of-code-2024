@@ -4,11 +4,15 @@
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/mariotacke/advent-of-code-2024)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2024/master/LICENSE)
 
-// REPLACE ME WITH PUZZLE INTRODUCTION
+The **Chief Historian** is always present for the big Christmas sleigh launch, but nobody has seen him in months! Last anyone heard, he was visiting locations that are historically significant to the North Pole; a group of Senior Historians has asked you to accompany them as they check the places they think he was most likely to visit.
+
+As each location is checked, they will mark it on their list with a **star**. They figure the Chief Historian **must** be in one of the first fifty places they'll look, so in order to save Christmas, you need to help them get **fifty stars** on their list before Santa takes off on December 25th.
+
+Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants **one star**. Good luck!
 
 ## Days
 
-- [Day 1: TBD](day-01/)
+- [Day 1: Historian Hysteria](day-01-historian-hysteria/)
 - [Day 2: TBD](day-02/)
 - [Day 3: TBD](day-03/)
 - [Day 4: TBD](day-04/)

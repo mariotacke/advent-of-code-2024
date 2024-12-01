@@ -13,12 +13,8 @@
     "type": "git",
     "url": "https://github.com/mariotacke/advent-of-code-2024.git"
   },
-  "type": "module",
   "devDependencies": {
-    "@eslint/eslintrc": "^3.2.0",
-    "@eslint/js": "^9.16.0",
-    "eslint": "^9.16.0",
-    "globals": "^15.13.0",
+    "eslint": "^8.57.1",
     "mocha": "^10.8.2"
   }
 }
